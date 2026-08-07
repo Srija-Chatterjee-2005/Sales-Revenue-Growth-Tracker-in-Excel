@@ -50,7 +50,7 @@ Improve decision-making
 ---
 
 
-## ** C. 🛠️ Tools & Technologies**
+## **C. 🛠️ Tools & Technologies**
 ---
 ### **💻 Microsoft Excel**
 
@@ -71,7 +71,7 @@ Python utilities are used for CSV validation, cleaning, forecasting and business
 
 ---
 
-## ** D. 📂 Dataset Description**
+## **D. 📂 Dataset Description**
 ---
 
 The project uses a structured CSV sales dataset containing transactional business records. Once imported, the data is automatically validated, cleaned and processed to generate KPIs, dashboards, charts and reports.
@@ -110,7 +110,7 @@ Order Status
 
 ---
 
-## ** E. ✨ Features**
+## **E. ✨ Features**
 ---
 
 ### **📥 Data Management** 
@@ -184,7 +184,7 @@ Theme Switching
 
 ---
 
-## ** F. ⭐ Project Highlights**
+## **F. ⭐ Project Highlights**
 ---
 
 📊 Interactive Dashboard
@@ -209,7 +209,7 @@ Theme Switching
 
 ---
 
-## ** G. 📂 Folder Structure**
+## **G. 📂 Folder Structure**
 ---
 
 
@@ -218,7 +218,7 @@ Theme Switching
 
 ---
 
-## ** H. 📸 Outputs**
+## **H. 📸 Outputs**
 ---
 
 
@@ -232,7 +232,7 @@ Theme Switching
 ---
 
 
-## **🎥 I. How to Run?**
+## **I.🎥 How to Run?**
 ---
 
 
@@ -244,7 +244,7 @@ https://github.com/user-attachments/assets/1b13b4ca-4d10-4b38-91ac-a069f8906a63
 
 ---
 
-## **⚙️ J. VBA Modules**
+## **J. ⚙️ VBA Modules**
 ---
 
 modButtons.bas – Creates interactive buttons.
@@ -267,7 +267,7 @@ modValidation.bas – Validates uploaded datasets.
 
 ---
 
-## ** K. 📈 Key Insights**
+## **K. 📈 Key Insights**
 ---
 
 ### **The dashboard helps users identify:**
@@ -295,7 +295,7 @@ Forecasted sales
 
 ---
 
-## ** L. ☁️ GitHub Upload Steps**
+## **L. ☁️ GitHub Upload Steps**
 ---
 
 git init
@@ -312,7 +312,7 @@ git push -u origin main
 
 ---
 
-## ** M. 🚀 Future Enhancements**
+## **M. 🚀 Future Enhancements**
 ---
 
 Web Application Version
@@ -332,11 +332,11 @@ Email Reports
 
 ---
 
-## ** N. 🏆 Conclusion**
+## **N. 🏆 Conclusion**
 
 This project demonstrates how Microsoft Excel, VBA and Python can be combined to create a professional Business Intelligence solution. It automates repetitive tasks, improves reporting efficiency and delivers interactive dashboards for better business decision-making.
 
-## ** O. 👩‍💻 Author**
+## **O. 👩‍💻 Author**
 
 # **Srija Chatterjee**
 
