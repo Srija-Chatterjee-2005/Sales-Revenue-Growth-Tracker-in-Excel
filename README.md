@@ -11,7 +11,7 @@ Microsoft Excel • VBA • Python • CSV • XLSM • Business Intelligence �
 
 ---
 
-## ** 📌 A. Project Title**
+## **📌 A. Project Title**
 ---
 
 The Sales and Revenue Growth Tracker in Excel is a professional Business Intelligence dashboard developed using Microsoft Excel, VBA, and Python. The project helps businesses automate sales reporting, visualize KPIs, analyze revenue growth, forecast future sales, and generate meaningful business insights through an interactive dashboard.
@@ -24,7 +24,7 @@ It demonstrates how Excel can be transformed into a powerful analytics platform 
 
 ---
 
-## **🎯 Objective**
+## **🎯 B. Objective**
 
 Monitor sales performance
 
