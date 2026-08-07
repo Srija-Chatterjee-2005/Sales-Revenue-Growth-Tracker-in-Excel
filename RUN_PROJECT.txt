@@ -1,0 +1,39 @@
+SALESiQ FINAL PROJECT — HOW TO RUN
+
+1. Extract this project folder.
+2. Install desktop Microsoft Excel.
+3. Install Python 3.10+.
+4. VS Code is recommended but optional.
+5. Open this folder in VS Code.
+6. Open Terminal > New Terminal.
+7. Run:
+   python -m pip install -r requirements.txt
+
+8. In Excel enable:
+   File > Options > Trust Center > Trust Center Settings >
+   Macro Settings > Trust access to the VBA project object model
+
+9. Close Excel completely.
+
+10. Build the final macro-enabled workbook:
+    python python/build_xlsm.py
+
+11. Final output:
+    excel/SalesIQ.xlsm
+
+12. Open SalesIQ.xlsm and click Enable Content.
+
+13. On Home:
+    - UPLOAD CSV
+    - REFRESH ALL
+    - EXPORT PDF
+    - CLEAR DATA
+    - DARK THEME / LIGHT THEME
+
+14. Use data/sample_sales_data.csv for testing.
+
+Optional helpers:
+    python python/validate_csv.py
+    python python/clean_data.py
+    python python/forecasting.py
+    python python/business_insights.py
