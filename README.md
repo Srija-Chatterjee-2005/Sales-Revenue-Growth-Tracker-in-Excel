@@ -50,7 +50,7 @@ Improve decision-making
 ---
 
 
-## **🛠️ Tools & Technologies**
+## ** C. 🛠️ Tools & Technologies**
 ---
 ### **💻 Microsoft Excel**
 
@@ -71,7 +71,7 @@ Python utilities are used for CSV validation, cleaning, forecasting and business
 
 ---
 
-## **📂 Dataset Description**
+## ** D. 📂 Dataset Description**
 ---
 
 The project uses a structured CSV sales dataset containing transactional business records. Once imported, the data is automatically validated, cleaned and processed to generate KPIs, dashboards, charts and reports.
@@ -110,7 +110,7 @@ Order Status
 
 ---
 
-## **✨ Features**
+## ** E. ✨ Features**
 ---
 
 ### **📥 Data Management** 
@@ -184,7 +184,7 @@ Theme Switching
 
 ---
 
-## **⭐ Project Highlights**
+## ** F. ⭐ Project Highlights**
 ---
 
 📊 Interactive Dashboard
@@ -209,14 +209,16 @@ Theme Switching
 
 ---
 
-## **📂 Folder Structure**
+## ** G. 📂 Folder Structure**
 ---
 
 
+<img width="182" height="915" alt="image" src="https://github.com/user-attachments/assets/64611188-6589-42c9-a3b4-917481de6558" />
+
 
 ---
 
-## **📸 Outputs**
+## ** H. 📸 Outputs**
 ---
 
 
@@ -226,7 +228,23 @@ Theme Switching
 <img width="1919" height="1011" alt="Screenshot 2026-08-07 222743" src="https://github.com/user-attachments/assets/3b2d84ed-ba81-4dad-9849-ed8d7c8b8f2f" />
 <img width="1919" height="960" alt="Screenshot 2026-08-07 222717" src="https://github.com/user-attachments/assets/5ccf793a-4bca-4ca8-8264-b224b4f3eb00" />
 
-## **⚙️ VBA Modules**
+
+---
+
+
+## **🎥 I. How to Run?**
+---
+
+
+
+
+https://github.com/user-attachments/assets/1b13b4ca-4d10-4b38-91ac-a069f8906a63
+
+
+
+---
+
+## **⚙️ J. VBA Modules**
 ---
 
 modButtons.bas – Creates interactive buttons.
@@ -249,10 +267,10 @@ modValidation.bas – Validates uploaded datasets.
 
 ---
 
-## **📈 Key Insights**
+## ** K. 📈 Key Insights**
 ---
 
-The dashboard helps users identify:
+### **The dashboard helps users identify:**
 
 Revenue growth trends
 
@@ -277,7 +295,7 @@ Forecasted sales
 
 ---
 
-## **☁️ GitHub Upload Steps**
+## ** L. ☁️ GitHub Upload Steps**
 ---
 
 git init
@@ -294,7 +312,7 @@ git push -u origin main
 
 ---
 
-## **🚀 Future Enhancements**
+## ** M. 🚀 Future Enhancements**
 ---
 
 Web Application Version
@@ -314,11 +332,11 @@ Email Reports
 
 ---
 
-## **🏆 Conclusion**
+## ** N. 🏆 Conclusion**
 
 This project demonstrates how Microsoft Excel, VBA and Python can be combined to create a professional Business Intelligence solution. It automates repetitive tasks, improves reporting efficiency and delivers interactive dashboards for better business decision-making.
 
-## **👩‍💻 Author**
+## ** O. 👩‍💻 Author**
 
 # **Srija Chatterjee**
 
