@@ -11,7 +11,7 @@ Microsoft Excel • VBA • Python • CSV • XLSM • Business Intelligence �
 
 ---
 
-## **📌 Project Title**
+## **A. 📌 Project Title**
 ---
 
 The Sales and Revenue Growth Tracker in Excel is a professional Business Intelligence dashboard developed using Microsoft Excel, VBA, and Python. The project helps businesses automate sales reporting, visualize KPIs, analyze revenue growth, forecast future sales, and generate meaningful business insights through an interactive dashboard.
@@ -76,7 +76,7 @@ Python utilities are used for CSV validation, cleaning, forecasting and business
 
 The project uses a structured CSV sales dataset containing transactional business records. Once imported, the data is automatically validated, cleaned and processed to generate KPIs, dashboards, charts and reports.
 
-Dataset Fields
+### **Dataset Fields**
 
 Order ID
 
@@ -281,10 +281,15 @@ Forecasted sales
 ---
 
 git init
+
 git add .
+
 git commit -m "Initial commit - Sales and Revenue Growth Tracker"
+
 git branch -M main
+
 git remote add origin https://github.com/<YOUR_USERNAME>/Sales-and-Revenue-Growth-Tracker-in-Excel.git
+
 git push -u origin main
 
 ---
