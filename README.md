@@ -338,8 +338,8 @@ This project demonstrates how Microsoft Excel, VBA and Python can be combined to
 
 ## **O. 👩‍💻 Author**
 
-# **Srija Chatterjee**
+## **Srija Chatterjee**
 
-🔗 GitHub: Add Your GitHub Profile Link
+### **🔗 GitHub:** https://github.com/Srija-Chatterjee-2005
 
-💼 LinkedIn: Add Your LinkedIn Profile Link
+### **💼 LinkedIn:** https://www.linkedin.com/in/srija-chatterjee-82a539308?utm_source=share_via&utm_content=profile&utm_medium=member_android
